@@ -1,0 +1,7 @@
+@charset "UTF-8";
+#addressTableTbody td{
+cursor: pointer;
+}
+.textbox {
+	width: 100%;
+}
